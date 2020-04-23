@@ -1,0 +1,302 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home/a30027244/tmp/awstats/ssl/awstats.30027244.2020.labnet.nz.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2025                
+POS_TIME 2703                
+POS_VISITOR 7444                
+POS_DAY 7985                
+POS_DOMAIN 3326                
+POS_LOGIN 3600                
+POS_ROBOT 3755                
+POS_WORMS 3935                
+POS_EMAILSENDER 4066                
+POS_EMAILRECEIVER 4209                
+POS_SESSION 8282                
+POS_SIDER 8477                
+POS_FILETYPES 4344                
+POS_DOWNLOADS 4485                
+POS_OS 4533                
+POS_BROWSER 4688                
+POS_SCREENSIZE 4931                
+POS_UNKNOWNREFERER 5005                
+POS_UNKNOWNREFERERBROWSER 5182                
+POS_ORIGIN 5354                
+POS_SEREFERRALS 5495                
+POS_PAGEREFS 5639                
+POS_SEARCHWORDS 5871                
+POS_KEYWORDS 6023                
+POS_MISC 2367                
+POS_ERRORS 6082                
+POS_CLUSTER 3456                
+POS_SIDER_404 6187                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200423235920 22 5344 16081810719975
+FirstTime 20200401074549
+LastTime 20200423235920
+LastUpdate 20200424001103 22 0 22 0 0
+TotalVisits 20                  
+TotalUnique 11                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 11                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+PDFSupport 0 0 0
+RealPlayerSupport 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+TotalMisc 0 0 0
+AddToFavourites 0 0 0
+DirectorSupport 0 0 0
+JavaEnabled 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+FlashSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 0 3 0 2 3 37473
+1 1 1 0 0 0 0
+2 3 3 49563 0 0 0
+3 0 0 0 1 1 0
+4 0 0 0 2 2 35
+5 1 1 0 2 2 87
+6 0 0 0 0 0 0
+7 2 2 37473 1 1 52
+8 0 0 0 1 1 35
+9 38 89 224514 1 1 0
+10 37 76 238463 1 3 37473
+11 91 188 404336 0 0 0
+12 83 148 502946 2 13 521
+13 51 98 365844 3 3 37508
+14 61 120 480389 3 16 314
+15 153 254 1565064 1 4 52
+16 89 186 1057331 0 1 0
+17 65 142 961691 1 2 37473
+18 38 80 297316 0 0 0
+19 24 40 132901 0 0 0
+20 7 19 39405 0 0 0
+21 79 162 484076 0 20 0
+22 40 87 180313 1 1 0
+23 3 6 23628 0 0 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 4
+nz 761 1502 6489863
+cl 96 194 456251
+gb 5 5 24193
+us 4 4 74946
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+bot[\s_+:,\.\;\/\\-] 10 149892 20200412001721 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+js 149 19192 0 0
+css 648 2169473 0 0
+jpg 42 1993241 0 0
+html 866 2863347 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 6
+ios_ipad 1 1
+win10 314 146
+linuxandroid 1116 580
+linux 5 5
+Unknown 4 4
+ios_iphone 265 130
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 9
+safari10.0 14 7
+Unknown 4 4
+chrome78.0.3904.108 5 5
+safari11.0 1 1
+chrome81.0.4044.96 14 11
+chrome81.0.4044.92 1319 643
+safari13.0.3 251 123
+chrome80.0.3987.163 76 62
+chrome81.0.4044.122 21 10
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 2
+Go_http_package 20200408025158
+https://gdnplus.com:Gather_Analyze_Provide. 20200408070427
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+Go_http_package 20200408025158
+https://gdnplus.com:Gather_Analyze_Provide. 20200408070427
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 105 105
+From1 0 0
+From2 0 0
+From3 10 10
+From4 751 1590
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 3
+https://cpanel.labnet.nz 7 7
+https://cpanel.labnet.nz 2 2
+http://27.96.64.98:80 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+301 3 765
+401 9 366
+404 47 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 13
+/public_html/SCP/images/800px-SCP002.jpg 5 https://30027244.2020.labnet.nz/SCP/
+/SCP/images/640px-SCP002.jpg 2 https://30027244.2020.labnet.nz/SCP/index.html
+/images/SCP-002.jpg 2 https://30027244.2020.labnet.nz/SCP/index.html
+/SCP/images/500px-SCP002.jpg 2 https://30027244.2020.labnet.nz/SCP/index.html
+/public_html/SCP/js/scripts.js 5 https://30027244.2020.labnet.nz/SCP/
+/js/scripts.js 1 https://30027244.2020.labnet.nz/SCP/
+/SCP/images/300px-SCP002.jpg 1 https://30027244.2020.labnet.nz/SCP/index.html
+/SCP/images/SCP-002.jpg 14 https://30027244.2020.labnet.nz/SCP/index.html
+/public_html/SCP/styles/style.css 1 https://30027244.2020.labnet.nz/SCP/
+/SCP/images/800px-SCP-002.jpg 2 https://30027244.2020.labnet.nz/SCP/index.html
+/SCP/styles/images/window.png 2 https://30027244.2020.labnet.nz/SCP/styles/style.css
+/styles/style.css 1 https://30027244.2020.labnet.nz/SCP/
+/SCP/images/SCP003.jpg 9 https://30027244.2020.labnet.nz/SCP/page2.html
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 11
+203.211.121.12 761 1502 6489863 20200423235920 20200423235917 /SCP/scp-002.html
+181.214.61.69 49 91 163494 20200415133144
+181.214.63.105 47 103 292757 20200413153409
+51.15.242.216 2 2 12090 20200402023934
+163.172.163.25 1 1 12103 20200401144525
+51.15.242.22 1 1 0 20200401074549
+170.130.187.54 1 1 0 20200408012605
+104.140.188.46 1 1 0 20200408054651
+104.206.128.66 1 1 37473 20200408025158
+104.206.128.70 1 1 37473 20200408070427
+163.172.161.137 1 1 0 20200401143003
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 10
+20200401 3 3 12103 3
+20200402 2 2 12090 1
+20200408 4 4 74946 4
+20200413 58 117 337107 3
+20200415 375 749 1981514 2
+20200416 185 404 1174647 2
+20200417 166 328 1964384 1
+20200420 6 10 285185 1
+20200421 57 67 942586 1
+20200423 10 21 260691 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 6
+5mn-15mn 1
+1h+ 5
+30mn-1h 2
+0s-30s 8
+15mn-30mn 2
+2mn-5mn 1
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 11
+/SCP/ 679 1506463 6 4
+/SCP/page3.html 55 781332 0 1
+/SCP/scp-002.html 50 95636 0 3
+/SCP/page2.html 30 268684 0 1
+/ 18 108251 13 8
+/REPSONSIVE/ 14 22677 0 2
+/SCP/scp-006.html 10 9385 0 0
+/COMP5210_Hollander_T_30027244/ 4 15458 1 0
+/SCP/page4.html 3 27298 0 0
+/SCP/page5.html 2 17234 0 0
+/REPSONSIVE/page2.html 1 10929 0 0
+END_SIDER

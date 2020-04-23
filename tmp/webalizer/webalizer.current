@@ -1,0 +1,436 @@
+# Webalizer V2.23-08 Incremental Data - 04/23/2020 23:14:09
+2020 4 23 23 14 9
+2338 849 46 23 17 28 13849180 1327 59 0
+16 15 245 1 23
+7 4 16 5 6 5
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+2 2 0 2 2 2
+3 0 48 3 0 0
+4 4 0 4 4 4
+0 0 0 0 0 0
+3 0 48 3 0 0
+0 0 0 0 0 0
+2 2 0 2 2 2
+0 0 0 0 0 0
+118 37 178979 4 56 2
+2 0 16 2 0 0
+827 250 1777131 3 504 5
+295 116 1007147 1 153 1
+281 135 2056584 1 135 5
+4 1 1139 2 1 1
+0 0 0 0 0 0
+330 76 2540932 2 223 2
+113 41 1169789 4 64 7
+80 33 609058 4 36 6
+267 148 4508293 16 141 17
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+15 6 37641 6
+1 1 0 1
+0 0 0 0
+1 1 1139 1
+1 0 16 0
+0 0 0 0
+1 1 0 1
+0 0 0 0
+0 0 0 0
+111 42 519605 73
+63 30 170631 27
+190 37 198141 137
+113 35 548327 76
+118 34 246341 74
+170 54 916516 116
+567 187 3400833 313
+278 109 1168509 153
+220 101 3682423 93
+87 37 582977 42
+44 18 206522 23
+32 13 84086 22
+118 47 754445 56
+186 87 1228809 96
+22 9 102219 17
+0
+0
+0
+849
+0
+0
+0
+0
+0
+8
+0
+8
+0
+0
+1323
+0
+0
+0
+0
+0
+0
+150
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/SCP/
+0 791 0 1453402 10 7
+/SCP/scp-006.html
+0 126 0 200670 3 3
+/SCP/images/
+0 1 27865616 2609 0 0
+/SCP/scp-002.html
+0 188 0 519697 19 11
+/SCP/styles/
+0 9 27863808 7119 0 0
+/SCP/js/scripts.js
+0 144 0 24143 0 0
+/SCP/images/600px-SCP003.jpg
+0 13 0 170870 0 0
+/SCP/page2.html
+0 32 0 292004 1 2
+/SCP/images/SCP-005.jpg
+0 6 0 46360 0 0
+/SCP/page3.html
+0 62 0 538405 1 2
+/SCP/page4.html
+0 4 0 30410 0 0
+/SCP/images/800px-SCP002.jpg
+0 22 0 1300651 0 0
+/SCP/images/SCP006 fan.jpg
+0 25 0 789376 0 0
+/SCP/scp-005.html
+0 35 0 86527 0 0
+/SCP/images/800px-SCP002_2.jpg
+0 17 0 654885 0 0
+/SCP/styles/style.css
+0 572 0 2075365 0 0
+/SCP/scp-004.html
+0 22 0 286824 2 2
+/SCP/page5.html
+0 11 0 38386 0 1
+/SCP/scp-003.html
+0 18 0 146537 1 1
+/SCP/images/SCP-002.jpg
+0 26 0 1009197 0 0
+/
+0 16 0 4556 15 3
+/SCP/images/SCP004_door.jpg
+0 8 0 2306232 0 0
+/SCP/images/SCP006.jpg
+0 32 0 1862771 0 0
+# End Of Table - urls
+# -sites- (monthly)
+170.130.187.54
+0 1 1 0 1 1586299980
+/
+25.194.178.107.gae.googleusercontent.com
+0 1 1 9449 1 1587680730
+/SCP/scp-002.html
+81-102-148-118.nzcomms.co.nz
+0 36 8 353398 2 1587487576
+/SCP/scp-006.html
+167.71.216.37
+0 1 0 16 0 0
+-
+fwdproxy-ash-027.fbsv.net
+0 1 1 9481 1 1587662862
+/SCP/scp-002.html
+181.214.63.105
+0 19 6 37278 1 1586787965
+/SCP/
+dr-julius.w3.org
+0 2 2 18898 1 1587680652
+/SCP/scp-002.html
+fwdproxy-ash-006.fbsv.net
+0 1 1 72765 0 0
+-
+ip25.ip-51-89-208.eu
+0 20 2 2294 1 1587423150
+/
+84.247.48.25
+0 1 0 16 0 0
+-
+s010.renaissance.nl
+0 1 0 16 0 0
+-
+dr-nick.w3.org
+0 1 1 9449 1 1587681155
+/SCP/scp-002.html
+cl1.cloud-layer.net
+0 1 0 16 0 0
+-
+fwdproxy-odn-022.fbsv.net
+0 1 1 72765 0 0
+-
+224.ip-51-254-118.eu
+0 1 0 16 0 0
+-
+103.147.10.206
+0 1 0 16 0 0
+-
+171-83-148-118.nzcomms.co.nz
+0 19 5 41294 1 1587491264
+/SCP/scp-002.html
+46-31-251-64.serverpronto.com
+0 1 0 16 0 0
+-
+209.17.96.114.rdns.cloudsystemnetworks.com
+0 1 1 0 1 1585701800
+/
+dr-marvin.w3.org
+0 2 2 18930 1 1587681138
+/SCP/scp-002.html
+209.17.96.234.rdns.cloudsystemnetworks.com
+0 1 1 0 1 1586047346
+/
+dr-wolfe.w3.org
+0 2 2 18930 1 1587681210
+/SCP/scp-002.html
+206.189.153.181
+0 1 0 16 0 0
+-
+209.17.97.114.rdns.cloudsystemnetworks.com
+0 1 1 0 1 1586261259
+/
+157.230.238.19
+0 1 0 0 1 1585761885
+-
+66.42.56.21.vultr.com
+0 1 0 16 0 0
+-
+fwdproxy-prn-024.fbsv.net
+0 2 2 18962 1 1587662860
+/SCP/scp-002.html
+fwdproxy-prn-018.fbsv.net
+0 1 1 118241 0 0
+-
+ns3270281.ip-37-59-56.eu
+0 2 0 16 0 0
+-
+209.17.96.66.rdns.cloudsystemnetworks.com
+0 1 1 0 1 1586606466
+/
+209.17.97.10.rdns.cloudsystemnetworks.com
+0 1 1 0 1 1586634698
+/
+sd-83783.fidesio.com
+0 1 0 16 0 0
+-
+ip-203-211-121-12.as45177.net
+0 2190 803 12879323 29 1587683649
+/SCP/
+138.68.80.235
+0 1 0 16 0 0
+-
+38-128.206.104.serverhubrdns.in-addr.arpa
+0 1 1 0 1 1586288798
+/
+182.211.224.35.bc.googleusercontent.com
+0 1 0 16 0 0
+-
+fwdproxy-ftw-029.fbsv.net
+0 1 1 9481 1 1587662863
+/SCP/scp-002.html
+209.17.96.2.rdns.cloudsystemnetworks.com
+0 2 2 0 2 1586051690
+/
+209.17.96.178.rdns.cloudsystemnetworks.com
+0 1 1 0 1 1586255897
+/
+142-4-7-212.unifiedlayer.com
+0 1 0 16 0 0
+-
+fwdproxy-atn-030.fbsv.net
+0 1 1 9481 1 1587673778
+/SCP/scp-002.html
+fwdproxy-ash-026.fbsv.net
+0 1 1 729 0 0
+-
+208-84-148-118.nzcomms.co.nz
+0 4 0 0 1 1587489397
+/SCP/scp-002.html
+fwdproxy-ftw-010.fbsv.net
+0 1 1 72765 0 0
+-
+ip198.ip-51-77-249.eu
+0 5 4 2278 4 1587179993
+/
+fwdproxy-prn-034.fbsv.net
+0 1 1 72765 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+25.194.178.107.gae.googleusercontent.com
+0 1 1 9449 1 1587680730
+/SCP/scp-002.html
+fwdproxy-ash-027.fbsv.net
+0 1 1 9481 1 1587662862
+/SCP/scp-002.html
+dr-julius.w3.org
+0 2 2 18898 1 1587680652
+/SCP/scp-002.html
+fwdproxy-ash-006.fbsv.net
+0 1 1 72765 0 0
+-
+dr-nick.w3.org
+0 1 1 9449 1 1587681155
+/SCP/scp-002.html
+fwdproxy-odn-022.fbsv.net
+0 1 1 72765 0 0
+-
+dr-marvin.w3.org
+0 2 2 18930 1 1587681138
+/SCP/scp-002.html
+dr-wolfe.w3.org
+0 2 2 18930 1 1587681210
+/SCP/scp-002.html
+fwdproxy-prn-024.fbsv.net
+0 2 2 18962 1 1587662860
+/SCP/scp-002.html
+fwdproxy-prn-018.fbsv.net
+0 1 1 118241 0 0
+-
+ip-203-211-121-12.as45177.net
+0 248 137 3975202 8 1587683649
+/SCP/
+fwdproxy-ftw-029.fbsv.net
+0 1 1 9481 1 1587662863
+/SCP/scp-002.html
+fwdproxy-atn-030.fbsv.net
+0 1 1 9481 1 1587673778
+/SCP/scp-002.html
+fwdproxy-ash-026.fbsv.net
+0 1 1 729 0 0
+-
+fwdproxy-ftw-010.fbsv.net
+0 1 1 72765 0 0
+-
+fwdproxy-prn-034.fbsv.net
+0 1 1 72765 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://30027244.2020.labnet.nz/SCP/scp-003.html
+0 50
+https://l.messenger.com/
+0 1
+http://30027244.2020.labnet.nz/SCP/styles/style.css
+0 2
+http://30027244.2020.labnet.nz/SCP/styles/
+0 6
+http://30027244.2020.labnet.nz/SCP/page5.html
+0 93
+- (Direct Request)
+0 455
+http://m.facebook.com/
+0 1
+http://30027244.2020.labnet.nz/SCP/
+0 312
+http://30027244.2020.labnet.nz/SCP/index.html
+0 610
+http://30027244.2020.labnet.nz/SCP/scp-005.html
+0 172
+http://30027244.2020.labnet.nz/SCP/scp-004.html
+0 53
+http://30027244.2020.labnet.nz/SCP/page3.html
+0 70
+http://30027244.2020.labnet.nz/SCP/page2.html
+0 196
+http://30027244.2020.labnet.nz/SCP/images/
+0 1
+http://30027244.2020.labnet.nz/SCP/scp-006.html
+0 114
+http://30027244.2020.labnet.nz/SCP/scp-002.html
+0 193
+http://30027244.2020.labnet.nz/SCP/page4.html
+0 9
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0 (Linux; Android 5.1.1; SM-J111F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36 OPR/67.0.
+0 12
+Mozilla/5.0 (compatible; Nimbostratus-Bot/v1.3.2; http://cloudsystemnetworks.com)
+0 8
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+0 21
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Mobile Saf
+0 198
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Mobile Saf
+0 1
+Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Mobile Saf
+0 6
+Validator.nu/LV http://validator.w3.org/services
+0 5
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+0 16
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+0 20
+Mozilla/5.0 (Linux; Android 9; SM-A530F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/
+0 18
+Mozilla/5.0 (Linux; Android 10; SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36
+0 12
+Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-A530F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/11.1 Chrome/75.0.3770.
+0 677
+Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2490.80 Safari/537.36
+0 2
+facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)
+0 11
+Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E14
+0 9
+Mozilla/5.0 (Linux; Android 9; SM-A530F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.111 Mobile Safari/537.36
+0 503
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.92 Safari/537.36
+0 19
+Jigsaw/2.2.5 W3C_CSS_Validator_JFouffa/2.0 AppEngine-Google; (+http://code.google.com/appengine; appid: s~css-validator-emoti
+0 1
+Mozilla/5.0 (Windows NT 6.1; rv:57.0) Gecko/20100101 Firefox/57.0
+0 3
+Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:62.0) Gecko/20100101 Firefox/62.0
+0 14
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+0 63
+Mozilla/5.0 (Linux; Android 9; SM-A530F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.96 Mobile Safari/537.36
+0 436
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.96 Safari/537.36
+0 1
+Mozilla/5.0 (Linux; Android 10; SM-N960F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.162 Mobile Safari/537.36
+0 275
+https://gdnplus.com:Gather Analyze Provide.
+0 2
+W3C_Validator/1.3 http://validator.w3.org/services
+0 2
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
